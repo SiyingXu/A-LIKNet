@@ -6,4 +6,4 @@
 ### code will be available soon
 ------------------------------------------------------------------------------------------------------------
 # About us
-### welcome to our MIDAS homepage: http://www.midaslab.org/
+### welcome to our MIDAS.LAB homepage: http://www.midaslab.org/
